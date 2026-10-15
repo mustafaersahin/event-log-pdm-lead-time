@@ -1,0 +1,9 @@
+{
+  "model": "logreg",
+  "modality": "both",
+  "seed": 0,
+  "temperature": 1.9956526129569783,
+  "fit_seconds": 0.7091348171234131,
+  "inference_ms_per_sample": 0.0008072853088378906,
+  "n_params": null
+}

@@ -1,0 +1,9 @@
+{
+  "model": "lstm",
+  "modality": "events",
+  "seed": 0,
+  "temperature": 1.0461971136577408,
+  "fit_seconds": 81.052663564682,
+  "inference_ms_per_sample": 1.5082337856292725,
+  "n_params": 26309
+}

@@ -1,0 +1,9 @@
+{
+  "model": "tcn",
+  "modality": "telemetry",
+  "seed": 0,
+  "temperature": 1.0013246147391301,
+  "fit_seconds": 284.25372886657715,
+  "inference_ms_per_sample": 4.184877157211304,
+  "n_params": 84277
+}

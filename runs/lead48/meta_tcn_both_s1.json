@@ -1,0 +1,9 @@
+{
+  "model": "tcn",
+  "modality": "both",
+  "seed": 1,
+  "temperature": 0.8512426243185099,
+  "fit_seconds": 450.0394160747528,
+  "inference_ms_per_sample": 3.6479275226593018,
+  "n_params": 87733
+}

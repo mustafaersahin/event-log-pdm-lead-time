@@ -1,0 +1,9 @@
+{
+  "model": "tcn",
+  "modality": "events",
+  "seed": 0,
+  "temperature": 0.9895363529999278,
+  "fit_seconds": 192.9239799976349,
+  "inference_ms_per_sample": 3.7403417825698853,
+  "n_params": 86965
+}

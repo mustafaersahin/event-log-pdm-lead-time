@@ -1,0 +1,9 @@
+{
+  "model": "logreg",
+  "modality": "telemetry",
+  "seed": 0,
+  "temperature": 1.986703498100669,
+  "fit_seconds": 1.2802355289459229,
+  "inference_ms_per_sample": 0.0005706802743380187,
+  "n_params": null
+}

@@ -1,0 +1,9 @@
+{
+  "model": "gru",
+  "modality": "both",
+  "seed": 0,
+  "temperature": 1.1640008137882798,
+  "fit_seconds": 134.97345566749573,
+  "inference_ms_per_sample": 7.3963303565979,
+  "n_params": 21701
+}

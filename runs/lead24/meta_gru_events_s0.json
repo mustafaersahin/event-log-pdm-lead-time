@@ -1,0 +1,9 @@
+{
+  "model": "gru",
+  "modality": "events",
+  "seed": 0,
+  "temperature": 1.0059390138853934,
+  "fit_seconds": 131.41182041168213,
+  "inference_ms_per_sample": 7.040149092674255,
+  "n_params": 20933
+}

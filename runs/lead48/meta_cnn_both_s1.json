@@ -1,0 +1,9 @@
+{
+  "model": "cnn",
+  "modality": "both",
+  "seed": 1,
+  "temperature": 0.6957227466925596,
+  "fit_seconds": 39.64806294441223,
+  "inference_ms_per_sample": 0.7855923175811768,
+  "n_params": 49125
+}

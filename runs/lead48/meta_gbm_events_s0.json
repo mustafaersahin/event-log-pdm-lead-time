@@ -1,0 +1,9 @@
+{
+  "model": "gbm",
+  "modality": "events",
+  "seed": 0,
+  "temperature": 1.5403477199717814,
+  "fit_seconds": 3.402627944946289,
+  "inference_ms_per_sample": 0.009318408319505594,
+  "n_params": null
+}

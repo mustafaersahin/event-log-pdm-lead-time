@@ -1,0 +1,9 @@
+{
+  "model": "gbm",
+  "modality": "telemetry",
+  "seed": 0,
+  "temperature": 1.5684819249027728,
+  "fit_seconds": 6.264690399169922,
+  "inference_ms_per_sample": 0.006676384660064197,
+  "n_params": null
+}

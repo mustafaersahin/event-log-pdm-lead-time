@@ -1,0 +1,9 @@
+{
+  "model": "lstm",
+  "modality": "both",
+  "seed": 2,
+  "temperature": 0.9850588129411046,
+  "fit_seconds": 111.61920142173767,
+  "inference_ms_per_sample": 0.9439554214477539,
+  "n_params": 27333
+}

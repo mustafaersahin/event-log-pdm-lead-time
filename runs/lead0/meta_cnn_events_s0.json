@@ -1,0 +1,9 @@
+{
+  "model": "cnn",
+  "modality": "events",
+  "seed": 0,
+  "temperature": 1.0879764365694078,
+  "fit_seconds": 48.59672546386719,
+  "inference_ms_per_sample": 0.7919316291809082,
+  "n_params": 48229
+}

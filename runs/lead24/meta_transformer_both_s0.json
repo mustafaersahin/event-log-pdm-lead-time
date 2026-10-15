@@ -1,0 +1,9 @@
+{
+  "model": "transformer",
+  "modality": "both",
+  "seed": 0,
+  "temperature": 1.2161633437901855,
+  "fit_seconds": 113.23604226112366,
+  "inference_ms_per_sample": 2.3003867864608765,
+  "n_params": 82053
+}
